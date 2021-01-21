@@ -5,3 +5,4 @@
 
 1. timer [GolangApplets/timer](timer/) cli计时器 (timer)
 2. uestclogin [GolangApplets/uestclogin](uestclogin/) 命令行登陆校园网
+3. liteServer [GolangApplets/liteServer](liteServer/) 简易文件服务器
